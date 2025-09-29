@@ -4,6 +4,8 @@ description: Chapter 3 of the course lecture notes.
 file: /courses/14-06-intermediate-macroeconomic-theory-spring-2004/5c9ea97ac98934e90c46bc7cef6deb7f_14_06lec_nts_ch3.pdf
 file_size: 401572
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

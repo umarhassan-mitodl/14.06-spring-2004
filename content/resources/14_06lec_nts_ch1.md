@@ -4,6 +4,8 @@ description: Chapter 1 of the course lecture notes.
 file: /courses/14-06-intermediate-macroeconomic-theory-spring-2004/88d3202cd98d9fdf352e58f5200bd0d8_14_06lec_nts_ch1.pdf
 file_size: 443470
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
