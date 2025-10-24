@@ -4,8 +4,6 @@ description: List of books recommended for reading
 file: /courses/14-06-intermediate-macroeconomic-theory-spring-2004/4b22ed475c77e7932d04aa9d607b7f8c_readings.pdf
 file_size: 111512
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: Solutions to midterm exam problems.
 file: /courses/14-06-intermediate-macroeconomic-theory-spring-2004/96cf36fde6c5c24eec95a4c42229c468_1406mterm04_sol.pdf
 file_size: 88576
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

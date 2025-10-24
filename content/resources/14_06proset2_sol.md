@@ -4,8 +4,6 @@ description: Solutions for Self assessment problems
 file: /courses/14-06-intermediate-macroeconomic-theory-spring-2004/1bb94818cfd4f2dd887259d3f8dc883e_14_06proset2_sol.pdf
 file_size: 229051
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

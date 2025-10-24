@@ -4,8 +4,6 @@ description: Chapter 7 of the course lecture notes.
 file: /courses/14-06-intermediate-macroeconomic-theory-spring-2004/1c996acb5be3e4a5361e13c95f3fec5a_14_06lec_nts_ch7.pdf
 file_size: 186413
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: Problem set.
 file: /courses/14-06-intermediate-macroeconomic-theory-spring-2004/99de95b7e147aa5bc4e4f3c4e5a9515d_14_06problemset5.pdf
 file_size: 108232
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
